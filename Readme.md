@@ -16,7 +16,9 @@ Eine Livedemo kann hier angesehen werden: https://thiefas.de
 
 =====================
 *Achtung*
+
 Einige Dateien, Codeschnipsel, sowie Dateipfade sind noch relativ und auf meinen Blog zugeschnitten. Bitte überprüfe alle Dateien, bevor Du das Theme für Deine Seite einsetzt!
+
 =========================
 
 
@@ -36,7 +38,9 @@ Missing Feautures:
 
 =====================
 *Attention!*
+
 Some files, code snippets and paths still are relative and tailored to my blog. Please check all files before using this theme!
+
 =========================
 
 Copyright (C) 2014 Th3f https://thiefas.de
