@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="de">
+<html lang="en">
 
 <head>
 
@@ -15,7 +15,7 @@
     <link href="<?php echo theme_url('css/bootstrap.min.css'); ?>" rel="stylesheet">
 
     <!-- Custom CSS -->
-    <link href="<?php echo theme_url('css/basic.min.css'); ?>" rel="stylesheet">
+    <link href="<?php echo theme_url('css/basic.css'); ?>" rel="stylesheet">
 
     <!-- Custom Fonts -->
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
@@ -75,14 +75,14 @@
 
     <!-- Page Header -->
     <!-- Set your background image for this header on the line below. -->
-    <header class="intro-header" style="background-image: url('<?php echo theme_url("img/header.jpg"); ?>')">
+    <header class="intro-header" style="background-image: url('<?php echo theme_url(); ?><?php theme_include('random'); ?>')">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                     <div class="site-heading">
                         <h1>404</h1>
                         <hr class="small">
-                        <span class="subheading">Du hast es geschafft! Du hast diese Seite vollends zerstört!</span>
+                        <span class="subheading">File not found!</span>
                     </div>
                 </div>
             </div>
@@ -92,8 +92,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                <p>Dank Deiner Inkompetenz sitzen wir jetzt alle auf dem Trockenen! Dankesehr! Wirklich - Hast Du echt suuuuper gemacht!</p>
-                <p>Das einzige was Du hier noch tun könntest um das ganze wieder gutzumachen, wäre eine Suche nach dem tätigen, was Du hier eigentlich erwartet hast...</p>
+                <p>The file <em><?php echo current_url(); ?></em> couldn't be found!</p>
             </div>
         </div>
     </div>

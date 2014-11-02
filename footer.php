@@ -5,7 +5,7 @@
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                     <ul class="list-inline text-center">
                         <li>
-                            <a href="https://twitter.com/ThiefasDE">
+                            <a href="https://twitter.com/">
                                 <span class="fa-stack fa-lg">
                                     <i class="fa fa-circle fa-stack-2x"></i>
                                     <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
@@ -13,7 +13,7 @@
                             </a>
                         </li>
                         <li>
-                            <a href="https://facebook.com/rafael.ark">
+                            <a href="https://facebook.com/">
                                 <span class="fa-stack fa-lg">
                                     <i class="fa fa-circle fa-stack-2x"></i>
                                     <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
@@ -21,7 +21,7 @@
                             </a>
                         </li>
                         <li>
-                            <a href="https://github.com/Th3f">
+                            <a href="https://github.com/">
                                 <span class="fa-stack fa-lg">
                                     <i class="fa fa-circle fa-stack-2x"></i>
                                     <i class="fa fa-github fa-stack-1x fa-inverse"></i>
@@ -49,9 +49,6 @@
     <!-- Bootstrap Core JavaScript -->
     <script src="<?php echo theme_url('js/bootstrap.min.js'); ?>"></script>
 
-    <!-- Custom Theme JavaScript -->
-    <script src="<?php echo theme_url('js/basic.min.js'); ?>"></script>
-    <?php include('../logger.php'); ?>
 </body>
 
 </html>

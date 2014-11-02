@@ -13,7 +13,7 @@
                             <?php echo article_description(); ?>
                         </h3>
                     </a>
-                    <p class="post-meta">Von <?php echo article_author(); ?> am <?php echo article_date(); ?></p>
+                    <p class="post-meta">Written by <?php echo article_author(); ?> on <?php echo article_date(); ?></p>
                 </div>
                 <hr>
 

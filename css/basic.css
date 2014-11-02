@@ -1,9 +1,3 @@
-/*!
- * Clean Blog v1.0.0 (http://startbootstrap.com)
- * Copyright 2014 Start Bootstrap
- * Licensed under Apache 2.0 (https://github.com/IronSummitMedia/startbootstrap/blob/gh-pages/LICENSE)
- */
-
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 20px;
@@ -392,4 +386,23 @@ img::-moz-selection {
 }
 body {
   webkit-tap-highlight-color: #0085a1;
+}
+.post-comment > .comment {
+  color: #404040;
+  font-size: 17px;
+  margin-bottom: -20px;
+}
+.post-comment > .comment > a {
+  text-decoration: none;
+  color: #804080;
+}
+.post-comment > .comment > a:hover,
+.post-comment > .comment > a:focus {
+  color: #80405F;
+  text-decoration: underline;
+}
+.post-comment > .comment > i {
+  text-decoration: none;
+  color: #804080;
+  font-style: italic;
 }
