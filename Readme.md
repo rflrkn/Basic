@@ -25,7 +25,7 @@ Einige Dateien, Codeschnipsel, sowie Dateipfade sind noch relativ und auf meinen
 
 
 
-*BASIC für Anchor*
+*BASIC for Anchor*
 =====================
 
 ***English***
