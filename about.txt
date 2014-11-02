@@ -1,0 +1,5 @@
+Theme name:		Basic
+Description:	Ein minimalistisches Blogtheme.
+Author name:	Th3f
+Author site:	https://thiefas.de
+License:		https://thiefas.de
