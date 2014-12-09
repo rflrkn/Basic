@@ -5,6 +5,11 @@ $random = array (
     'img/header02.jpg',
     'img/header03.jpg',
     'img/header04.jpg',
+    'img/header05.jpg',
+    'img/header06.jpg',
+    'img/header07.jpg',
+    'img/header08.jpg',
+    'img/header09.jpg',
 );
 
 $count = count($random) -1;

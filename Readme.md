@@ -1,7 +1,7 @@
 *BASIC for Anchor*
 =====================
 
-***English***
+***English*** (German below)
 
 A basic and minimalist theme for AnchorCMS
 
@@ -17,7 +17,7 @@ Missing Feautures:
 *BASIC für Anchor*
 =====================
 
-***German*** (English below)
+***German***
 
 Ein minimalistisches und grundlegendes Theme für das Anchor Blogging-CMS
 
@@ -29,6 +29,6 @@ Eine Livedemo kann hier angesehen werden: https://thiefas.de
 
 - Suchfunktion
 
-
+![Screenshot of BASIC](http://share.thiefas.de/img/scr20-33-09.png)
 
 Copyright (C) 2014 Th3f https://thiefas.de
