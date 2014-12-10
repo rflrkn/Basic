@@ -31,4 +31,4 @@ Eine Livedemo kann hier angesehen werden: https://thiefas.de
 
 ![Screenshot of BASIC](http://share.thiefas.de/img/scr20-33-09.png)
 
-Copyright (C) 2014 Th3f https://thiefas.de
+Copyright (C) 2014 Th3f https://thiefas.de - The theme is based on "Clean Blog" bei Startbootstrap.
