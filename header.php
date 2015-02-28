@@ -9,7 +9,10 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
+    <?php if(!defined("HEADER_TITLE_ALTERNATE")) { ?>
     <title><?php echo page_title(); ?> | <?php echo site_name(); ?></title>
+    <?php }else{ ?>
+    <title><?php echo HEADER_TITLE_ALTERNATE; ?> | <?php echo site_name(); }?></title>
 
     <!-- Bootstrap Core CSS -->
     <link href="<?php echo theme_url('css/bootstrap.min.css'); ?>" rel="stylesheet">
