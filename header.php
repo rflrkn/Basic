@@ -8,9 +8,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
-
+ 
+    <?php if(!defined("HEADER_TITLE_ALTERNATE")) { ?>
     <title><?php echo page_title(); ?> | <?php echo site_name(); ?></title>
-
+    <?php }else{ ?>
+    <title><?php echo HEADER_TITLE_ALTERNATE; ?> | <?php echo site_name(); }?></title>
+ 
     <!-- Bootstrap Core CSS -->
     <link href="<?php echo theme_url('css/bootstrap.min.css'); ?>" rel="stylesheet">
 
@@ -73,18 +76,18 @@
         <!-- /.container -->
     </nav>
 
-    <!-- Page Header -->
-    <!-- Set your background image for this header on the line below. -->
-    <header class="intro-header" style="background-image: url('<?php echo theme_url(); ?><?php theme_include('random'); ?>')">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                    <div class="site-heading">
-                        <h1><?php echo site_name(); ?></h1>
-                        <hr class="small">
-                        <span class="subheading">How much wood could a woodchuck chuck, if a woodchuck could chuck wood?</span>
-                    </div>
-                </div>
-            </div>
-        </div>
+     <!-- Page Header -->
+     <!-- Set your background image for this header on the line below. -->
+     <header class="intro-header" style="background-image: url('<?php echo theme_url(); ?><?php theme_include('random'); ?>')">
+         <div class="container">
+             <div class="row">
+                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                     <div class="site-heading">
+                         <h1><?php echo site_name(); ?></h1>
+                         <hr class="small">
+                         <span class="subheading">How much wood could a woodchuck chuck, if a woodchuck could chuck wood?</span>
+                     </div>
+                 </div>
+             </div>
+         </div>
     </header>
