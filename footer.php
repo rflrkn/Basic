@@ -29,7 +29,7 @@
                             </a>
                         </li>
                         <li>
-                            <a href="https://thiefas.de/feeds/rss">
+                            <a href="feeds/rss">
                                 <span class="fa-stack fa-lg">
                                     <i class="fa fa-circle fa-stack-2x"></i>
                                     <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
