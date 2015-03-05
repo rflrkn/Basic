@@ -4,7 +4,6 @@
 A basic and minimalist theme for AnchorCMS
 
 See a demo at http://preview.thiefas.de/basic/
-=====================
 
 (Still) missing feautures:
 
