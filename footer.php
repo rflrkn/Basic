@@ -37,7 +37,7 @@
                             </a>
                         </li>
                     </ul>
-                    <p class="copyright text-muted">&copy; <?php echo date('Y'); ?> by <?php echo site_name(); ?> | Design ported to AnchorCMS by <a href="https://thiefas.de">ThiefasDE</a> - Original Design by <a href="http://startbootstrap.com" target="_blank">StartBootstrap</a></p>
+                    <p class="copyright text-muted">&copy; <?php echo date('Y'); ?> by <?php echo site_name(); ?> | Design ported to AnchorCMS by <a href="https://th3f.de">Th3f</a> - Original Design by <a href="http://startbootstrap.com" target="_blank">StartBootstrap</a></p>
                 </div>
             </div>
         </div>
