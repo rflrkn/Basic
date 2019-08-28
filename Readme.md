@@ -3,8 +3,6 @@
 
 A basic and minimalist theme for AnchorCMS
 
-See a demo at https://preview.th3f.de/basic/
-
 Missing features:
 
 - Searchform
